@@ -1,0 +1,9 @@
+C:\Users\use\Desktop\liaOSOperatingSystem\liaOSOperatingSystem\obj\Debug\netcoreapp2.0\cosmos\liaOSOperatingSystem.csprojAssemblyReference.cache
+C:\Users\use\Desktop\liaOSOperatingSystem\liaOSOperatingSystem\obj\Debug\netcoreapp2.0\cosmos\liaOSOperatingSystem.csproj.CoreCompileInputs.cache
+C:\Users\use\Desktop\liaOSOperatingSystem\liaOSOperatingSystem\obj\Debug\netcoreapp2.0\cosmos\liaOSOperatingSystem.AssemblyInfoInputs.cache
+C:\Users\use\Desktop\liaOSOperatingSystem\liaOSOperatingSystem\obj\Debug\netcoreapp2.0\cosmos\liaOSOperatingSystem.AssemblyInfo.cs
+C:\Users\use\Desktop\liaOSOperatingSystem\liaOSOperatingSystem\bin\Debug\netcoreapp2.0\cosmos\liaOSOperatingSystem.deps.json
+C:\Users\use\Desktop\liaOSOperatingSystem\liaOSOperatingSystem\bin\Debug\netcoreapp2.0\cosmos\liaOSOperatingSystem.dll
+C:\Users\use\Desktop\liaOSOperatingSystem\liaOSOperatingSystem\bin\Debug\netcoreapp2.0\cosmos\liaOSOperatingSystem.pdb
+C:\Users\use\Desktop\liaOSOperatingSystem\liaOSOperatingSystem\obj\Debug\netcoreapp2.0\cosmos\liaOSOperatingSystem.dll
+C:\Users\use\Desktop\liaOSOperatingSystem\liaOSOperatingSystem\obj\Debug\netcoreapp2.0\cosmos\liaOSOperatingSystem.pdb
